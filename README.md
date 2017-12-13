@@ -60,7 +60,7 @@ Once you have your source code, most of the most technical work is over.  Now yo
 
 **How faithful do you want to stay to the original?** Games in the 1980's often included jokes that don't make sense today, or relied on quirks of the authoring system that are hard to replicate.  You might have strong opinions about changing the original author's intent, or about modernising for the sake of new players.
 
-The answers are about personal preferences, and the steps below will discuss possible solutions for a range of answers.
+The steps below will discuss possible solutions for a range of preferences.
 
 ### Step six: choose a modern authoring system
 
