@@ -68,7 +68,10 @@ Modern authoring systems choose between _faithful_ and _modernising_ in the same
 
 **If you want a modernising authoring system:** There are many of these systems, none of which definitively better than any other.  See for example [this comparison](http://brasslantern.org/writers/howto/chooselang.html).  If you choose a modernising system, you will need to rewrite your source code yourself using that system.
 
-**If you want a faithful authoring system:** [ngPAWS](http://ngpaws.com/) is broadly faithful to the Professional Adventure Writer, and includes [instructions for converting old games](https://github.com/Utodev/ngPAWS/wiki/PAWS-to-nGPAWS-conversion).  If you decompiled your game with UnQuill, you might be able to import its Z-Code output directly into a modern system like [Inform](http://inform7.com/).
+**If you want system that's faithful to The Professional Adventure Writer:** [ngPAWS](http://ngpaws.com/) is a good choice, and includes [instructions for converting old games](https://github.com/Utodev/ngPAWS/wiki/PAWS-to-nGPAWS-conversion)
+
+**If you want a system that's faithful to The Quill:** you might be able to import UnQuill's Z-Code output directly into a modern system like [Inform](http://inform7.com/).  You can also try using [The Inker](https://github.com/8bat/the_inker) - a prototype 8bat tool to translate UnQuill output to [ngPAWS](http://ngpaws.com/) format
+
 
 A major goal of the 8bat project is to provide better modernisation options.  Please check back in a few months.
 
