@@ -2,7 +2,9 @@
 
 This project aims to provide a complete toolkit for making 8-Bit adventure games playable and enjoyable in a modern environment.
 
-At present, this is just a list of links to other tools.  As the project develops, it will fill in the missing pieces between those tools.
+At present, this mainly consists of links to other tools.  As the project develops, it will fill in the missing pieces between those tools.
+
+[Part 1 of The Very Big Cave Adventure](https://8bat.github.io/vbca/play/) has been adapted for the web using this toolkit.  Part 2 is still in development.
 
 ## How to update an 8-bit adventure
 
